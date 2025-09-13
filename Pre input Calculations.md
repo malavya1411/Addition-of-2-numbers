@@ -1,5 +1,5 @@
 # Basic-calculations-of-2-numbers
-Java program to add 2 numbers
+Java program to perfom calculations of pre assigned values of 2 numbers
 ```java
 class main
 {
