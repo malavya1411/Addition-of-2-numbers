@@ -1,3 +1,6 @@
+# Basic-calculations-of-2-numbers
+Java program to perform basic calculations with user input
+
 ```java
 import java.util.Scanner;
 
