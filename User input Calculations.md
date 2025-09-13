@@ -1,5 +1,5 @@
 # Basic-calculations-of-2-numbers
-Java program to perform basic calculations with user input
+Java program to perform basic calculations with input from user
 
 ```java
 import java.util.Scanner;
